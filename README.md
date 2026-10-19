@@ -2,7 +2,7 @@
 
 Juego educativo de simulación por turnos para el curso **Gobernanza Local** (Universidad EAFIT). Un agente de IA hace de MODERADOR y de todos los ACTORES de un caso ficticio de gobernanza territorial. El estudiante selecciona actores, les asigna características, enfrenta un problema y recibe, al cierre, un resumen factual de su partida. El agente no evalúa ni corrige durante el juego.
 
-Versión del contenido: **0.7.1**.
+Versión del contenido: **0.8**.
 
 ## Estructura del repositorio
 
