@@ -1,6 +1,6 @@
 # Mesa de Gobernanza — Banco de casos
 
-Versión 0.7.1 · Curso Gobernanza Local
+Versión 0.8 · Curso Gobernanza Local
 
 Los tres casos son ficticios. Representan situaciones típicas de gobernanza local en un municipio sin nombre propio. El número del 1 al 3 que el estudiante envía en la etapa 1 asigna el caso con ese número.
 
