@@ -1,6 +1,6 @@
 # Mesa de Gobernanza — Marco teórico
 
-Versión 0.7.1 · Curso Gobernanza Local
+Versión 0.8 · Curso Gobernanza Local
 
 Este documento explica de qué lectura sale cada elemento conceptual del juego, qué significa cada concepto y cómo se traduce en una regla o un elemento concreto de la Mesa de Gobernanza. Las tres fuentes son:
 
@@ -101,4 +101,4 @@ El diseño pedagógico explícito (decisión del docente, no una cita de las lec
 - Olavarría describe el problema público y la política pública como procesos donde el desajuste entre lo que un actor cree que puede resolver y lo que realmente puede resolver (sus "capacidades" reales frente a su "percepción" de ellas) es parte constitutiva del juego de poder (p. 48, sobre asimetrías de percepción de capacidades).
 - Aguilar insiste en que la gobernanza es un proceso "no lineal", con "ajustes" (p. 40): no hay una única secuencia correcta de dirección, sino un proceso que se corrige sobre la marcha.
 
-El juego traduce esto en su regla central: el estudiante puede convocar mal, asignar mal las características o responder de forma incoherente con su propia selección, y el agente no se lo señala en el momento. Esa incoherencia queda registrada en el resumen final (ítems 5, 6, 7 y 10 del Documento 1, sección 5) para que sea el docente —no la inteligencia artificial— quien decida cómo usarla pedagógicamente, en línea con el principio de que la evaluación de un proceso de gobernanza no es un veredicto automático, sino una lectura experta del desajuste entre condiciones reales y decisiones tomadas.
+El juego traduce esto en su regla central: el estudiante puede convocar mal, asignar mal las características o responder de forma incoherente con su propia selección, y el agente no se lo señala en el momento. Esa incoherencia queda registrada en el resumen final (observaciones del resumen final, Documento 1, sección 5) para que sea el docente —no la inteligencia artificial— quien decida cómo usarla pedagógicamente, en línea con el principio de que la evaluación de un proceso de gobernanza no es un veredicto automático, sino una lectura experta del desajuste entre condiciones reales y decisiones tomadas.
