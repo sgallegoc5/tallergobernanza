@@ -6,7 +6,7 @@ Los tres casos son ficticios. Representan situaciones típicas de gobernanza loc
 
 Cada caso tiene la misma estructura: presentación del problema, lista de actores (ficha completa, pública e interna), primer grupo de opciones, problema central y segundo grupo de opciones. Los dos grupos de opciones están redactados de forma genérica, sin nombrar actores, para que ninguna opción quede en contradicción si alguno de los actores mencionados ya se levantó de la mesa.
 
-Las fichas de actores de este documento son idénticas a las del Documento 3 (Actores); se repiten aquí para que cada caso quede completo y autocontenido.
+Las fichas de actores de este documento son idénticas a las del Documento 3 (Actores); se repiten aquí para que cada caso quede completo, sintético y autocontenido.
 
 ---
 
